@@ -13,7 +13,7 @@ Este projeto comunitário do Interruptor é inspirado na série "Até onde chega
 - [x] [museus](https://interruptorpt.github.io/ate-onde-chega-cultura/museus)
 - [x] [recintos de espectáculo](https://interruptorpt.github.io/ate-onde-chega-cultura/recintos)
 - [x] [galerias de arte](https://interruptorpt.github.io/ate-onde-chega-cultura/galerias)
-- [x] [monumentos](https://interruptorpt.github.io/ate-onde-chega-cultura/galerias)
+- [x] [monumentos](https://interruptorpt.github.io/ate-onde-chega-cultura/monumentos)
 
 ## Contribuir
 
